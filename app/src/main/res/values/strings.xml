@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flixster</string>
+    <string name="poster_description">Movie poster</string>
+    <string name="rating_format">★ %1$s  ·  %2$s</string>
+    <string name="retry">Retry</string>
+    <string name="error_loading">Couldn\'t load movies. Check your internet connection and API key.</string>
+    <string name="error_missing_key">No TMDB API key found.\n\nAdd TMDB_API_KEY=your_key to local.properties, then Sync and Run again.</string>
+</resources>
